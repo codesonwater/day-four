@@ -1,0 +1,34 @@
+[
+  {
+    "Chair1": {
+      "material": "plastic",
+      "color": "slate"
+    },
+
+    "Chair2": {
+      "material": "suede",
+      "color": "blue"
+    },
+
+    "Chair3": {
+      "material": "wood",
+      "color": "lightBrown"
+    },
+    "Chair4": {
+      "material": "wood",
+      "color": "lightBrown"
+    },
+    "Chair5": {
+      "material": "plastic",
+      "color": "yellow"
+    },
+    "Chair6": {
+      "material": "cloth",
+      "color": "pink"
+    },
+    "Chair7": {
+      "material": "mesh",
+      "color": "white"
+    }
+  }
+]
